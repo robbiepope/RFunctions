@@ -1,8 +1,7 @@
 ################################################################################
-# FUNCTION: Compute jaccard similarity 
+# FUNCTION: Compute jaccard similarity
 ################################################################################
-
-jaccard_similarity <- function (rslt1, rslt2) 
+jaccard_similarity <- function (rslt1, rslt2)
   #' Estimates the Jaccard similarity coefficient for two lists
   #'
   #'
